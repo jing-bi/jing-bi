@@ -1,4 +1,8 @@
-## Hi there 👋
+![Cover](./assets/cover.gif)
+
+
+🌟 Want to learn more? Check out my [beautifully crafted website](https://jing.vision)!
+
 
 <!--
 **jing-bi/jing-bi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
